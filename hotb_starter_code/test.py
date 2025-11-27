@@ -18,16 +18,27 @@ matplotlib.use("TKAgg", force=True)
 
 eeg = acquisition.EEG()
 
-# define electrode locations
-cap: dict = {
+# define electrode locations depending on your device
+halo: dict = {
     0: "Fp1",
     1: "Fp2",
     2: "O1",
     3: "O2",
 }
 
+cap: dict = {
+ 0: "F3",
+ 1: "F4",
+ 2: "C3",
+ 3: "C4",
+ 4: "P3",
+ 5: "P4",
+ 6: "O1",
+ 7: "O2",
+}
+
 # define device name
-device_name = "BA HALO 082"
+device_name = "BA MINI 047"
 
 # start EEG acquisition setup
 with EEGManager() as mgr:
