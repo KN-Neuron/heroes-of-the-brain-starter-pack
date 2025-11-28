@@ -9,10 +9,10 @@ pip install ./BrainAccessSDK-linux/python_api
 pip install brainaccess
 ```
 
-OR
+OR if you're a windows user
 
 ```bash
-pip install ./BrainAccessSDK-linux/python_api
+pip install ./BrainAccessSDK-windows/python_api
 ```
 
 then
@@ -22,3 +22,6 @@ python3 test.py
 ```
 
 > there may be slight connectivity issues. Try rebooting the device after few failed attempts.
+
+
+for signal processing we recommend [MNE](https://mne.tools/stable/index.html) library.
