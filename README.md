@@ -2,10 +2,10 @@
 
 ## Instalacja
 
-### Windows 10/11
-1. Pobierz najnowszą wersję [BrainAccess Board](https://www.brainaccess.ai/wp-content/uploads/downloads/BrainAccessBoard.zip) dla Windows 10/11
-2. Rozpakuj plik ZIP i uruchom instalator `BrainAccessBoard_v2.6.1.exe` znajdujący się wewnątrz
-3. Postępuj zgodnie z instrukcjami wyświetlanymi na ekranie
+### Pobieranie
+1. Pobierz najnowszą wersję [BrainAccess Board](https://www.brainaccess.ai/download/)
+2. Podążaj za instrukcjami wyświetlanymi na ekranie
+
 
 ### Linux
 1. Pobierz najnowszą wersję [BrainAccess Board](https://www.brainaccess.ai/wp-content/uploads/downloads/BrainAccessBoard-linux.zip) dla Linux
@@ -53,15 +53,9 @@ W przypadku jakichkolwiek problemów z urządzeniami EEG możesz poprosić o pom
 
 ## Installation
 
-### Windows 10/11
-1. Download the latest version of [BrainAccess Board](https://www.brainaccess.ai/wp-content/uploads/downloads/BrainAccessBoard.zip) for Windows 10/11
-2. Unzip the file and run the `BrainAccessBoard_v2.6.1.exe` installer located inside
-3. Follow the on-screen instructions
-
-### Linux
-1. Download the latest version of [BrainAccess Board](https://www.brainaccess.ai/wp-content/uploads/downloads/BrainAccessBoard-linux.zip) for Linux
-2. Unzip the file and run the `BrainAccessBoard_v2.6.1.deb` file located inside
-3. Follow the on-screen instructions
+### Downloading
+1. Download the latest version of [BrainAccess Board](https://www.brainaccess.ai/download/)
+2. Follow the on-screen instructions
 
 ## Connecting the Device
 
