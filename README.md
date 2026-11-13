@@ -6,12 +6,6 @@
 1. Pobierz najnowszą wersję [BrainAccess Board](https://www.brainaccess.ai/download/)
 2. Podążaj za instrukcjami wyświetlanymi na ekranie
 
-
-### Linux
-1. Pobierz najnowszą wersję [BrainAccess Board](https://www.brainaccess.ai/wp-content/uploads/downloads/BrainAccessBoard-linux.zip) dla Linux
-2. Rozpakuj plik ZIP i uruchom plik `BrainAccessBoard_v2.6.1.deb` znajdujący się wewnątrz
-3. Postępuj zgodnie z instrukcjami wyświetlanymi na ekranie
-
 ## Łączenie z urządzeniem
 
 1. Włącz urządzenie, przytrzymując przycisk aż dioda zaświeci się na niebiesko (w opasce HALO wystąpią dodatkowo drgania)
