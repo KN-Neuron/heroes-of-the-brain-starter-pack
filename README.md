@@ -11,21 +11,19 @@
 1. Włącz urządzenie, przytrzymując przycisk aż dioda zaświeci się na niebiesko (w opasce HALO wystąpią dodatkowo drgania)
 2. Włącz Bluetooth na komputerze lub użyj dołączonego do zestawu adaptera Bluetooth (**NIE ŁĄCZ SIĘ Z URZĄDZENIEM** samodzielnie przez ustawienia systemowe)
 3. Uruchom zainstalowany program BrainAccess Board
-4. Wybierz urządzenie, z którym chcesz nawiązać połączenie, z listy
+4. Znajdź na liście urządzenie, z którym chcesz nawiązać połączenie, i kliknij **Connect**
    
-   <img width="460" height="338" alt="image" src="https://github.com/user-attachments/assets/b4edd0b3-8bf3-4f64-9701-535ce7ec9ef4" />
+   <img alt="Lista urządzeń" src="images/device-list.png" />
   
-5. Przy udanym połączeniu urządzenie powinno pojawić się na liście
-   <img width="578" height="298" alt="image" src="https://github.com/user-attachments/assets/ab648362-50ea-4096-8d5c-6b17fee67c73" />
-
-6. Możemy wyświelić surowy sygnał EEG oraz zobaczyć stan poszczególnych kanałów klikając w tą ikonkę:
-   <img width="603" height="314" alt="xyz" src="https://github.com/user-attachments/assets/ecda845c-ba03-4d25-a9ef-fdb0b6313f6b" />
-
-   Możliwe są 3 stany: zielony, zółty i czerwony. Jeżeli przez większość czasu większość kanałów jest zielona lub żółta wszystko jest ok. Natomiast w przypadku dominujących stanów czerwonych i żółtych należy zweryfikować poprawność założenia czepka.
+5. Przy udanym połączeniu urządzenie powinno pojawić się w sekcji **Connected Devices** ze statusem `[ OK ]`
    
-   <img width="158" height="64" alt="image" src="https://github.com/user-attachments/assets/5181f430-c0bd-4549-b167-d6b9808ccee6" />
-   <img width="164" height="53" alt="image" src="https://github.com/user-attachments/assets/e60c99d9-4f00-44a9-8e52-b974bf080570" />
-   <img width="140" height="59" alt="xyz" src="https://github.com/user-attachments/assets/b980c58b-6728-46ec-b581-2ad23cb108a3" />
+   <img alt="Połączone urządzenia" src="images/connected-devices.png" />
+
+6. Możemy wyświetlić surowy sygnał EEG oraz zobaczyć stan poszczególnych kanałów, klikając ikonkę oka obok przycisku **Disconnect**.
+
+   Możliwe są 3 stany: zielony, żółty i czerwony. Jeżeli przez większość czasu większość kanałów jest zielona lub żółta wszystko jest ok. Natomiast w przypadku dominujących stanów czerwonych i żółtych należy zweryfikować poprawność założenia czepka.
+   
+   <img alt="Stany kanałów" src="images/channel-states.png" />
 
 ## Rozwiązywanie problemów
 
@@ -56,23 +54,19 @@ W przypadku jakichkolwiek problemów z urządzeniami EEG możesz poprosić o pom
 1. Turn on the device by holding the button until the LED lights up blue (the HALO headband will additionally vibrate)
 2. Enable Bluetooth on your computer or use the Bluetooth adapter included in the kit (**DO NOT PAIR/CONNECT THE DEVICE** yourself via system settings)
 3. Launch the installed BrainAccess Board program
-4. Select the device you want to connect to from the list
+4. Find the device you want to connect to on the list and click **Connect**
    
-  <img width="460" height="338" alt="image" src="https://github.com/user-attachments/assets/b4edd0b3-8bf3-4f64-9701-535ce7ec9ef4" />
+  <img alt="Device list" src="images/device-list.png" />
   
-5. If the connection is successful, the device should appear on the list
+5. If the connection is successful, the device should appear under **Connected Devices** with status `[ OK ]`
    
-  <img width="578" height="298" alt="image" src="https://github.com/user-attachments/assets/ab648362-50ea-4096-8d5c-6b17fee67c73" />
+  <img alt="Connected devices" src="images/connected-devices.png" />
 
-6. We can display the raw EEG signal and see the status of individual channels by clicking this icon:
-   
-  <img width="603" height="314" alt="xyz" src="https://github.com/user-attachments/assets/ecda845c-ba03-4d25-a9ef-fdb0b6313f6b" />
+6. We can display the raw EEG signal and see the status of individual channels by clicking the eye icon next to the **Disconnect** button.
 
   There are 3 possible states: green, yellow, and red. If the majority of channels are green or yellow most of the time, everything is fine. However, in the case of dominant red and yellow states, the correctness of the headset placement should be verified.
 
-  <img width="158" height="64" alt="image" src="https://github.com/user-attachments/assets/5181f430-c0bd-4549-b167-d6b9808ccee6" /> 
-  <img width="164" height="53" alt="image" src="https://github.com/user-attachments/assets/e60c99d9-4f00-44a9-8e52-b974bf080570" /> 
-  <img width="140" height="59" alt="xyz" src="https://github.com/user-attachments/assets/b980c58b-6728-46ec-b581-2ad23cb108a3" />
+  <img alt="Channel states" src="images/channel-states.png" />
 
 ## Troubleshooting
 
